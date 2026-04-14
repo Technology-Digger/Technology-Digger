@@ -58,4 +58,4 @@
 ---
 
 ## ⚡ Fun Fact
-I build projects that **combine intelligence (AI) with real-world applications**.
+I build projects that **combine intelligence (AI) with real-world applications**.****
