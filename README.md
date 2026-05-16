@@ -6,8 +6,6 @@
 
 GitHub README (ML/AI Focused)
 
-Copy this into your GitHub profile README.md
-
 Hi, I'm Anish Chatterjee 👋
 Machine Learning Enthusiast | Data Analyst | B.Tech CSE Student
 
